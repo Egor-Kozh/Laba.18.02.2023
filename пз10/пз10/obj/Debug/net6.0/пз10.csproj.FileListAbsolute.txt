@@ -1,0 +1,15 @@
+C:\Users\kozhe\source\repos\пз10\пз10\bin\Debug\net6.0\пз10.exe
+C:\Users\kozhe\source\repos\пз10\пз10\bin\Debug\net6.0\пз10.deps.json
+C:\Users\kozhe\source\repos\пз10\пз10\bin\Debug\net6.0\пз10.runtimeconfig.json
+C:\Users\kozhe\source\repos\пз10\пз10\bin\Debug\net6.0\пз10.dll
+C:\Users\kozhe\source\repos\пз10\пз10\bin\Debug\net6.0\пз10.pdb
+C:\Users\kozhe\source\repos\пз10\пз10\obj\Debug\net6.0\пз10.csproj.AssemblyReference.cache
+C:\Users\kozhe\source\repos\пз10\пз10\obj\Debug\net6.0\пз10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozhe\source\repos\пз10\пз10\obj\Debug\net6.0\пз10.AssemblyInfoInputs.cache
+C:\Users\kozhe\source\repos\пз10\пз10\obj\Debug\net6.0\пз10.AssemblyInfo.cs
+C:\Users\kozhe\source\repos\пз10\пз10\obj\Debug\net6.0\пз10.csproj.CoreCompileInputs.cache
+C:\Users\kozhe\source\repos\пз10\пз10\obj\Debug\net6.0\пз10.dll
+C:\Users\kozhe\source\repos\пз10\пз10\obj\Debug\net6.0\refint\пз10.dll
+C:\Users\kozhe\source\repos\пз10\пз10\obj\Debug\net6.0\пз10.pdb
+C:\Users\kozhe\source\repos\пз10\пз10\obj\Debug\net6.0\пз10.genruntimeconfig.cache
+C:\Users\kozhe\source\repos\пз10\пз10\obj\Debug\net6.0\ref\пз10.dll
